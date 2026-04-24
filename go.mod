@@ -1,4 +1,4 @@
-module precious-memo-backend
+module github.com/GuuTAR/precious-memo-backend
 
 go 1.25.4
 
