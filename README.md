@@ -13,5 +13,5 @@ go mode vendor
 2. Run project
 
 ```
-go run main.go
+go run ./cmd/api
 ```
